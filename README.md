@@ -1,6 +1,5 @@
 # ArvyaX-Machine-Learning-Internship-Assignment
 
-# ArvyaX Machine Learning Assignment
 
 **End-to-End System: Understand → Decide → Guide**
 
